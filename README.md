@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: He/His/Him
-<iframe src="https://giphy.com/embed/oG9JWEcm7dlTi" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/black-hole-oG9JWEcm7dlTi">via GIPHY</a></p>
+![7YRI](https://user-images.githubusercontent.com/26838016/194718631-cc11c564-2738-4b90-a0e6-4124e327b92f.gif)
+
 <!--
 **mrunal77/mrunal77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
