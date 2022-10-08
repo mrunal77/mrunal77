@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: He/His/Him
 <br />
-![7YRI](https://user-images.githubusercontent.com/26838016/194718631-cc11c564-2738-4b90-a0e6-4124e327b92f.gif)
+![7YRI](https://user-images.githubusercontent.com/26838016/194718713-96d8ca1b-1f0b-44c1-a7af-3276ed00bfde.gif)
 
 <!--
 **mrunal77/mrunal77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
