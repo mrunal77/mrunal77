@@ -3,9 +3,6 @@
   - 😄 Pronouns: He/His/Him
   <br />
 </p>
-<p align='center'>
-  ![7YRI](https://user-images.githubusercontent.com/26838016/194718713-96d8ca1b-1f0b-44c1-a7af-3276ed00bfde.gif)
-</p>
 <!--
 **mrunal77/mrunal77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
