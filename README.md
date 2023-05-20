@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mrunal77&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-<p align='left'>
+<p align='right'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=dark" width="350"></a>
 </p>
 
