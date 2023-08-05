@@ -4,7 +4,7 @@
   
   
   - 😄 Pronouns: He/His/Him
-  - 🔭 I’m currently working on Sofwaress....
+  - 🔭 I’m currently working and exploring.....
   <br />
 
 <!--
