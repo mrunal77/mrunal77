@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mrunal77&show_icons=true&count_private=true&theme=dark" width="380"></a>
 </p>
+-->
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=dark" width="350"></a>
 </p>
