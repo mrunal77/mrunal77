@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='left'>
+<span align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mrunal77&show_icons=true&count_private=true&theme=dark" width="380"></a>
-</p>
+</span>
 
-<p align='left'>
+<span align='right'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=dark" width="350"></a>
-</p>
+</span>
 
 ![7YRI](https://user-images.githubusercontent.com/26838016/194718713-96d8ca1b-1f0b-44c1-a7af-3276ed00bfde.gif)
