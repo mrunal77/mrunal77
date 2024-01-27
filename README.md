@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 -->
 
 <span align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mrunal77&show_icons=true&count_private=true&theme=dark" width="380"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mrunal77&show_icons=true&count_private=true&theme=dark" width="380" height="200"></a>
 </span>
 
 <span align='right'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=dark" width="350" height="200"></a>
 </span>
 
 ![7YRI](https://user-images.githubusercontent.com/26838016/194718713-96d8ca1b-1f0b-44c1-a7af-3276ed00bfde.gif)
