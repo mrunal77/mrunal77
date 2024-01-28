@@ -28,6 +28,9 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mrunal77&show_icons=true&count_private=true&theme=dark" width="380"></a>
 </span>
 
-
-
 ![7YRI](https://user-images.githubusercontent.com/26838016/194718713-96d8ca1b-1f0b-44c1-a7af-3276ed00bfde.gif)
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Insuetus/count.svg" />
+</p>
