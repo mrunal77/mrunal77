@@ -29,8 +29,3 @@ Here are some ideas to get you started:
 </span>
 
 ![7YRI](https://user-images.githubusercontent.com/26838016/194718713-96d8ca1b-1f0b-44c1-a7af-3276ed00bfde.gif)
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Insuetus/count.svg" />
-</p>
