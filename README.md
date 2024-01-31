@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/mrunal77/count.svg)
-<br />
+
+
 <span align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=dark" width="380"></a>
 </span>
@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 </span>
 
 ![7YRI](https://user-images.githubusercontent.com/26838016/194718713-96d8ca1b-1f0b-44c1-a7af-3276ed00bfde.gif)
+<br />
+<br />
+<p align="center">
+![Visitor Count](https://profile-counter.glitch.me/mrunal77/count.svg)
+</p>
+
