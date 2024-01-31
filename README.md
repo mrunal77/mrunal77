@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![7YRI](https://user-images.githubusercontent.com/26838016/194718713-96d8ca1b-1f0b-44c1-a7af-3276ed00bfde.gif)
 <br />
 <br />
-<p align="center">
+
 ![Visitor Count](https://profile-counter.glitch.me/mrunal77/count.svg)
-</p>
+
 
