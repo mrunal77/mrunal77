@@ -46,3 +46,10 @@ Here are some ideas to get you started:
 </p>
 
 
+## Support / Donations
+
+If the project of my repo helped you, consider supporting development: <a href="https://paypal.me/mrunal77">https://paypal.me/mrunal77 — small</p> donations keep improvements coming.
+
+Thank you for your support!
+
+
