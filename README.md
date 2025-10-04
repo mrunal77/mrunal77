@@ -41,9 +41,13 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
+<!--<p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{mrunal77}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>-->
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=mrunal77"></a>
 </p>
+
 
 
 ## Support / Donations
