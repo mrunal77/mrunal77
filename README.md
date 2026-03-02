@@ -2,7 +2,8 @@
 
 <p align="center">
   😄 Pronouns: He/His/Him<br />
-  🔭 I’m currently working and exploring.....
+  🔭 I’m currently working and exploring...<br />
+  🤓 Vibe Coder.
 </p>
 <!--
 **mrunal77/mrunal77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
