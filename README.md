@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=mrunal77&theme=dracula" alt="GitHub Stats Card" /><br />
-  <img src="https://ghstats.dev/api/langs?username=mrunal77&theme=dracula&layout=donut_vertical" alt="Top Languages" /></p><br />
-  <img src="https://ghstats.dev/api/sparkline?username=mrunal77&theme=dracula&days=30&width=320&height=80" alt="Contribution Sparkline" />
+  <img src="https://ghstats.dev/api/langs?username=mrunal77&theme=dracula&layout=donut_vertical" alt="Top Languages" /><br />
+  <img src="https://ghstats.dev/api/sparkline?username=mrunal77&theme=dracula&days=90&width=320&height=100" alt="Contribution Sparkline" /><br />
   <!--<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=gotham" width="34.4%"></a>-->
   <!--<br />-->
   <!--<a href="#"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mrunal77&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a> -->
