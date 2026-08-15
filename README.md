@@ -28,16 +28,16 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mrunal77&show_icons=true&count_private=true&theme=dark" width="380"></a>
 </span> -->
 
-
+<!--
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=mrunal77&theme=dracula" alt="GitHub Stats Card" /> 
   <img src="https://ghstats.dev/api/langs?username=mrunal77&theme=dracula&layout=donut_vertical" alt="Top Languages" /><br />
   <img src="https://ghstats.dev/api/sparkline?username=mrunal77&theme=dracula&days=90&width=320&height=100" alt="Contribution Sparkline" /><br />
-  <!--<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=gotham" width="34.4%"></a>-->
-  <!--<br />-->
-  <!--<a href="#"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mrunal77&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a> -->
-  <!--<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrunal77&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>-->
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=gotham" width="34.4%"></a>
+<a href="#"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mrunal77&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrunal77&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </p>
+-->
 
 
 <!--
