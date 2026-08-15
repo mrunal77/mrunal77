@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=mrunal77&theme=dracula" alt="GitHub Stats Card" /><br />
+  <img src="https://ghstats.dev/api/card?username=mrunal77&theme=dracula" alt="GitHub Stats Card" /> 
   <img src="https://ghstats.dev/api/langs?username=mrunal77&theme=dracula&layout=donut_vertical" alt="Top Languages" /><br />
   <img src="https://ghstats.dev/api/sparkline?username=mrunal77&theme=dracula&days=90&width=320&height=100" alt="Contribution Sparkline" /><br />
   <!--<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal77&layout=compact&theme=gotham" width="34.4%"></a>-->
